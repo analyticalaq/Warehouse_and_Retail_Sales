@@ -3,7 +3,7 @@ Here’s a sample **README** for your GitHub repository. This description provid
 
 ---
 
-# Sales Data Analysis and Forecasting
+# Warehouse_and_Retail_Sales Data Analysis and Forecasting
 
 ## Project Overview
 This project performs an end-to-end data analysis on sales data for a warehouse and retail company. Using Python, the analysis explores sales trends, correlation between key metrics, time-series forecasting, customer segmentation, and anomaly detection. This analysis is intended to guide business decision-making through insights on seasonal trends, top-selling products, supplier contributions, and predictive sales modeling.
